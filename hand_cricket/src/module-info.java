@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module hand_cricket {
-}
